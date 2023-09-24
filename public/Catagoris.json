@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/bPC2FjP/health1.jpg",
+      "title": "Item 1",
+      "categories": "Health",
+      "price": 42,
+      "colors": {
+        "bg": "#CCC2FC",
+        "text": "#1119FD",
+        "button": "#A293EB"
+      },
+      "description": "Discover a range of health products designed to keep you feeling your best and maintain your well-being."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/VTz2nd8/eductaion1.jpg",
+      "title": "Item 2",
+      "categories": "Education",
+      "price": 63,
+      "colors": {
+        "bg": "#FFE6F4",
+        "text": "#CE035E",
+        "button": "#DAABC5"
+      },
+      "description": "Enhance your knowledge with educational resources, from books to courses, for lifelong learning."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/jwHh1rH/clothing1.jpg",
+      "title": "Item 3",
+      "categories": "Clothing",
+      "price": 18,
+      "colors": {
+        "bg": "#BDE9C2",
+        "text": "#303330",
+        "button": "#8ACC92"
+      },
+      "description": "Stay stylish and comfortable with our clothing collection for all occasions and seasons."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/sKYSZT8/food1.jpg",
+      "title": "Item 4",
+      "categories": "Food",
+      "price": 77,
+      "colors": {
+        "bg": "#4A451E",
+        "text": "#FF981A",
+        "button": "#363211"
+      },
+      "description": "Savor delicious flavors from around the world with our premium selection of food products."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/2kSCB5v/helth2.jpg",
+      "title": "Item 5",
+      "categories": "Health",
+      "price": 91,
+      "colors": {
+        "bg": "#CCC2FC",
+        "text": "#1119FD",
+        "button": "#A293EB"
+      },
+      "description": "Prioritize your health and well-being with our top-quality health and fitness solutions."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/LPyhGfL/eductaion2.jpg",
+      "title": "Item 6",
+      "categories": "Education",
+      "price": 30,
+      "colors": {
+        "bg": "#FFE6F4",
+        "text": "#CE035E",
+        "button": "#DAABC5"
+      },
+      "description": "Empower your mind and acquire new skills through our diverse educational offerings."
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/LzTV683/clothing2.jpg",
+      "title": "Item 7",
+      "categories": "Clothing",
+      "price": 55,
+      "colors": {
+        "bg": "#BDE9C2",
+        "text": "#303330",
+        "button": "#8ACC92"
+      },
+      "description": "Elevate your fashion game with trendy and affordable clothing choices for all tastes."
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/sKYSZT8/food1.jpg",
+      "title": "Item 8",
+      "categories": "Food",
+      "price": 12,
+      "colors": {
+        "bg": "#4A451E",
+        "text": "#FF981A",
+        "button": "#363211"
+      },
+      "description": "Indulge in mouthwatering culinary experiences with our gourmet food selections."
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/2Z4P6Ss/helth3.png",
+      "title": "Item 9",
+      "categories": "Health",
+      "price": 84,
+      "colors": {
+        "bg": "#CCC2FC",
+        "text": "#1119FD",
+        "button": "#A293EB"
+      },
+      "description": "Invest in your health journey with our comprehensive range of wellness products."
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/LSVqgfX/eduction3.png",
+      "title": "Item 10",
+      "categories": "Education",
+      "price": 37,
+      "colors": {
+        "bg": "#FFE6F4",
+        "text": "#CE035E",
+        "button": "#DAABC5"
+      },
+      "description": "Unlock your potential and achieve your educational goals with our learning resources."
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/cQbrhPS/clothing3.png",
+      "title": "Item 11",
+      "categories": "Clothing",
+      "price": 68,
+      "colors": {
+        "bg": "#BDE9C2",
+        "text": "#303330",
+        "button": "#8ACC92"
+      },
+      "description": "Revamp your wardrobe with the latest fashion trends and exclusive clothing items."
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/hfCHfzB/food3.png",
+      "title": "Item 12",
+      "categories": "Food",
+      "price": 23,
+      "colors": {
+        "bg": "#4A451E",
+        "text": "#FF981A",
+        "button": "#363211"
+      },
+      "description": "Experience culinary delights from our premium selection of gourmet food products."
+    }
+  ]
+  
+
+  
+
+
+
+
+
+
+
+
+
+
