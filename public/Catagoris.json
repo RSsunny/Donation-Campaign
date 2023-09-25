@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": "1",
       "img": "https://i.ibb.co/bPC2FjP/health1.jpg",
       "title": "Clean water for children",
       "categories": "Health",
@@ -13,7 +13,7 @@
       "description": "Discover a range of health products designed to keep you feeling your best and maintain your well-being."
     },
     {
-      "id": 2,
+      "id": "2",
       "img": "https://i.ibb.co/VTz2nd8/eductaion1.jpg",
       "title": "Good education",
       "categories": "Education",
@@ -26,7 +26,7 @@
       "description": "Enhance your knowledge with educational resources, from books to courses, for lifelong learning."
     },
     {
-      "id": 3,
+      "id": "3",
       "img": "https://i.ibb.co/jwHh1rH/clothing1.jpg",
       "title": "Used Clothing Drive",
       "categories": "Clothing",
@@ -39,7 +39,7 @@
       "description": "Stay stylish and comfortable with our clothing collection for all occasions and seasons."
     },
     {
-      "id": 4,
+      "id": "4",
       "img": "https://i.ibb.co/sKYSZT8/food1.jpg",
       "title": "Better Food for Everyone",
       "categories": "Food",
@@ -52,7 +52,7 @@
       "description": "Savor delicious flavors from around the world with our premium selection of food products."
     },
     {
-      "id": 5,
+      "id": "5",
       "img": "https://i.ibb.co/2kSCB5v/helth2.jpg",
       "title": "Clean water for children",
       "categories": "Health",
@@ -65,7 +65,7 @@
       "description": "Prioritize your health and well-being with our top-quality health and fitness solutions."
     },
     {
-      "id": 6,
+      "id":"6",
       "img": "https://i.ibb.co/LPyhGfL/eductaion2.jpg",
       "title": "Good education",
       "categories": "Education",
@@ -78,7 +78,7 @@
       "description": "Empower your mind and acquire new skills through our diverse educational offerings."
     },
     {
-      "id": 7,
+      "id": "7",
       "img": "https://i.ibb.co/LzTV683/clothing2.jpg",
       "title": "Used Clothing Drive",
       "categories": "Clothing",
@@ -91,7 +91,7 @@
       "description": "Elevate your fashion game with trendy and affordable clothing choices for all tastes."
     },
     {
-      "id": 8,
+      "id": "8",
       "img": "https://i.ibb.co/sKYSZT8/food1.jpg",
       "title": "Better Food for Everyone",
       "categories": "Food",
@@ -104,7 +104,7 @@
       "description": "Indulge in mouthwatering culinary experiences with our gourmet food selections."
     },
     {
-      "id": 9,
+      "id": "9",
       "img": "https://i.ibb.co/2Z4P6Ss/helth3.png",
       "title": "Clean water for children",
       "categories": "Health",
@@ -117,7 +117,7 @@
       "description": "Invest in your health journey with our comprehensive range of wellness products."
     },
     {
-      "id": 10,
+      "id": "10",
       "img": "https://i.ibb.co/LSVqgfX/eduction3.png",
       "title": "Good education",
       "categories": "Education",
@@ -130,7 +130,7 @@
       "description": "Unlock your potential and achieve your educational goals with our learning resources."
     },
     {
-      "id": 11,
+      "id": "11",
       "img": "https://i.ibb.co/cQbrhPS/clothing3.png",
       "title": "Used Clothing Drive",
       "categories": "Clothing",
@@ -143,7 +143,7 @@
       "description": "Revamp your wardrobe with the latest fashion trends and exclusive clothing items."
     },
     {
-      "id": 12,
+      "id": "12",
       "img": "https://i.ibb.co/hfCHfzB/food3.png",
       "title": "Better Food for Everyone",
       "categories": "Food",

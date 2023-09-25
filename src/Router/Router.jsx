@@ -3,6 +3,8 @@ import Error from "../pages/Error/Error";
 import MainLayout from "../Layout/MainLayout";
 import Home from "../components/Home/Home";
 import CategorisDetails from "../components/Categoris/CategorisDetails";
+import Donation from "../pages/Donetion/Donation";
+import Statistics from "../pages/Statistics/Statistics";
 
 
 const router = createBrowserRouter([
@@ -19,6 +21,15 @@ const router = createBrowserRouter([
                 path: '/details/:id',
                 element:<CategorisDetails></CategorisDetails>,
                 loader: ()=>fetch('/Catagoris.json')
+            },
+            {
+                path:'/donation',
+                element:<Donation></Donation>,
+                loader:()=>fetch('/Catagoris.json')
+            },
+            {
+                path:'/statistics',
+                element:<Statistics></Statistics>
             }
             
         ]

@@ -16,7 +16,7 @@ const Categoris = ({inputValue}) => {
 const helth=categori?.filter(data=>data.categories.includes(search))
 
 
-console.log(helth);
+
 
     
    
