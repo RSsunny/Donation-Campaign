@@ -2,9 +2,9 @@
     {
       "id": 1,
       "img": "https://i.ibb.co/bPC2FjP/health1.jpg",
-      "title": "Item 1",
+      "title": "Clean water for children",
       "categories": "Health",
-      "price": 42,
+      "price": 1000,
       "colors": {
         "bg": "#CCC2FC",
         "text": "#1119FD",
@@ -15,9 +15,9 @@
     {
       "id": 2,
       "img": "https://i.ibb.co/VTz2nd8/eductaion1.jpg",
-      "title": "Item 2",
+      "title": "Good education",
       "categories": "Education",
-      "price": 63,
+      "price": 800,
       "colors": {
         "bg": "#FFE6F4",
         "text": "#CE035E",
@@ -28,9 +28,9 @@
     {
       "id": 3,
       "img": "https://i.ibb.co/jwHh1rH/clothing1.jpg",
-      "title": "Item 3",
+      "title": "Used Clothing Drive",
       "categories": "Clothing",
-      "price": 18,
+      "price": 500,
       "colors": {
         "bg": "#BDE9C2",
         "text": "#303330",
@@ -41,9 +41,9 @@
     {
       "id": 4,
       "img": "https://i.ibb.co/sKYSZT8/food1.jpg",
-      "title": "Item 4",
+      "title": "Better Food for Everyone",
       "categories": "Food",
-      "price": 77,
+      "price": 600,
       "colors": {
         "bg": "#4A451E",
         "text": "#FF981A",
@@ -54,9 +54,9 @@
     {
       "id": 5,
       "img": "https://i.ibb.co/2kSCB5v/helth2.jpg",
-      "title": "Item 5",
+      "title": "Clean water for children",
       "categories": "Health",
-      "price": 91,
+      "price": 300,
       "colors": {
         "bg": "#CCC2FC",
         "text": "#1119FD",
@@ -67,9 +67,9 @@
     {
       "id": 6,
       "img": "https://i.ibb.co/LPyhGfL/eductaion2.jpg",
-      "title": "Item 6",
+      "title": "Good education",
       "categories": "Education",
-      "price": 30,
+      "price": 1200,
       "colors": {
         "bg": "#FFE6F4",
         "text": "#CE035E",
@@ -80,9 +80,9 @@
     {
       "id": 7,
       "img": "https://i.ibb.co/LzTV683/clothing2.jpg",
-      "title": "Item 7",
+      "title": "Used Clothing Drive",
       "categories": "Clothing",
-      "price": 55,
+      "price": 950,
       "colors": {
         "bg": "#BDE9C2",
         "text": "#303330",
@@ -93,9 +93,9 @@
     {
       "id": 8,
       "img": "https://i.ibb.co/sKYSZT8/food1.jpg",
-      "title": "Item 8",
+      "title": "Better Food for Everyone",
       "categories": "Food",
-      "price": 12,
+      "price": 400,
       "colors": {
         "bg": "#4A451E",
         "text": "#FF981A",
@@ -106,9 +106,9 @@
     {
       "id": 9,
       "img": "https://i.ibb.co/2Z4P6Ss/helth3.png",
-      "title": "Item 9",
+      "title": "Clean water for children",
       "categories": "Health",
-      "price": 84,
+      "price": 700,
       "colors": {
         "bg": "#CCC2FC",
         "text": "#1119FD",
@@ -119,9 +119,9 @@
     {
       "id": 10,
       "img": "https://i.ibb.co/LSVqgfX/eduction3.png",
-      "title": "Item 10",
+      "title": "Good education",
       "categories": "Education",
-      "price": 37,
+      "price": 1000,
       "colors": {
         "bg": "#FFE6F4",
         "text": "#CE035E",
@@ -132,9 +132,9 @@
     {
       "id": 11,
       "img": "https://i.ibb.co/cQbrhPS/clothing3.png",
-      "title": "Item 11",
+      "title": "Used Clothing Drive",
       "categories": "Clothing",
-      "price": 68,
+      "price": 687,
       "colors": {
         "bg": "#BDE9C2",
         "text": "#303330",
@@ -145,9 +145,9 @@
     {
       "id": 12,
       "img": "https://i.ibb.co/hfCHfzB/food3.png",
-      "title": "Item 12",
+      "title": "Better Food for Everyone",
       "categories": "Food",
-      "price": 23,
+      "price": 400,
       "colors": {
         "bg": "#4A451E",
         "text": "#FF981A",

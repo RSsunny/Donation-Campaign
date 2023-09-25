@@ -1,9 +1,9 @@
+import PropTypes from 'prop-types';
 
 
 
-
-const Banner = () => {
-
+const Banner = ({handleSubmit}) => {
+   
     return (
         
         <section  className="">
@@ -15,9 +15,9 @@ const Banner = () => {
                         <h1 className="text-xl md:text-5xl font-bold text-black text-center">I Grow By Helping People In Need
                         </h1>
                         <div className="mt-10 text-center">
-                                <form className="relative inline-block">
+                                <form onSubmit={handleSubmit} className="relative inline-block">
                                     <input className="w-[300px] md:w-[400px] py-2  rounded-md bg-white pl-4 text-black outline-none" type="search" name="search" id="1" placeholder="Search " />
-                                    <input className="absolute right-0 bg-[#FF444A] py-2 -md px-3 text-white" type="submit" value="Search" />
+                                    <input  className="absolute right-0 bg-[#FF444A] py-2 -md px-3 text-white" type="submit" value="Search" />
                                 </form>
                         </div>
                     </div>
@@ -28,5 +28,7 @@ const Banner = () => {
         </section>
     );
 };
-
+Banner.propTypes={
+    handleSubmit: PropTypes.func.isRequired
+}
 export default Banner;
