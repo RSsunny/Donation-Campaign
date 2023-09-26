@@ -45,7 +45,7 @@ const CategorisDetails = () => {
             
                 <div onClick={handleStor} className="cursor-pointer absolute bottom-10 ml-10 ">
                     <div onClick={()=>setOn(true)}>    
-                        <div className="text-white px-4 py-2 rounded-md" style={{backgroundColor: colors.button}}>Donate $ {price}</div>   
+                        <div className="text-white px-4 py-2 rounded-md" style={{backgroundColor: colors.text}}>Donate $ {price}</div>   
                     </div>
                 </div>
                     
