@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const DonationCard = ({card}) => {
     const {id,img,price,title,colors,categories}=card
-    console.log(card);
+    
     return (
         <div className='flex gap-4 md:gap-8 items-center pr-5  rounded-md' style={{backgroundColor: colors.bg}}>
             <div className='w-[200px] h-[200px] md:w-[300px] md:h-[300px]  overflow-hidden'>
