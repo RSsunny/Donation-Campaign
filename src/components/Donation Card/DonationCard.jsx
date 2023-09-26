@@ -14,7 +14,7 @@ const DonationCard = ({card}) => {
                 <div className="text-white px-2 py-1 rounded-md inline-block" style={{backgroundColor: colors.button}}>{categories}</div>
                 <h1 className='text-sm md:text-2xl font-bold text-black'>{title}</h1> 
                 <p className='text-base md:text-2xl font-bold' style={{color:colors.text}}>$ {price}</p> 
-                <Link to={`/details/${id}`}>
+                <Link to={`/details/${id}`} state={categories}>
                     <button className="text-white px-2 md:px-4 py-1 md:py-2 rounded-md mt-3" style={{backgroundColor: colors.text}}> View Details</button> 
                 </Link>
                     

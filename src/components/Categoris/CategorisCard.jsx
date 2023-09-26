@@ -7,7 +7,7 @@ const CategorisCard = ({categoris}) => {
     const {id,categories,colors,img, title}=categoris
     
     return (
-       <Link to={`/details/${id}`}>
+       <Link to={`/details/${id}`} state={categories}>
          <div >
             <div className="card   shadow-xl rounded-md " style={{backgroundColor: colors.bg }}>
                 <figure><img className="h-[200px] w-full hover:scale-125 duration-1000" src={img} alt="Shoes" /></figure>
